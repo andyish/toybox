@@ -1,8 +1,11 @@
 # Amelia's ToyBox
 
-Web pages for the Amelia's ToyBox app, served with GitHub Pages:
+Gentle games for toddlers and preschoolers, for iPhone and iPad.
 
-- Support: https://andyish.github.io/toybox/support/
-- Privacy policy: https://andyish.github.io/toybox/privacy/
+- [Help & support](SUPPORT.md)
+- [Privacy policy](PRIVACY.md)
 
-The privacy policy matches the in-app text (`privacy.ts` in the app's source). Update both together.
+The same pages are in `support/` and `privacy/` as HTML for GitHub Pages
+(https://andyish.github.io/toybox/ once Pages is switched on). The privacy
+policy matches the in-app text (`privacy.ts` in the app's source); update all
+copies together.
